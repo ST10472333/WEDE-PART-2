@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact Us | Stoner's Haven</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body bgcolor="lightblue">
+  <nav>
+    <div class="logo">🌿 Stoner's Haven</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="section">
+    <h1>Contact Us</h1>
+    <p>Got a question, suggestion, or just wanna say hi? Drop us a message below:</p>
+    <form action="#" method="post" style="max-width: 500px; margin: 30px auto; text-align: left;">
+      <label>Name:</label><br />
+      <input type="text" name="name" required style="width: 100%; padding: 10px; margin-bottom: 10px;" /><br />
+      
+      <label>Email:</label><br />
+      <input type="email" name="email" required style="width: 100%; padding: 10px; margin-bottom: 10px;" /><br />
+      
+      <label>Message:</label><br />
+      <textarea name="message" rows="5" style="width: 100%; padding: 10px;" required></textarea><br /><br />
+      
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Stoner's Haven. Stay lifted. 🌬️</p>
+  </footer>
+</body>
+</html>
