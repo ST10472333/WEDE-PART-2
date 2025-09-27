@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Portfolio | Stoner's Haven</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body bgcolor="lightblue">
+  <nav>
+    <div class="logo">🌿 Stoner's Haven</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="section">
+    <h1>Our Work</h1>
+    <p>We’re proud of the collaborations and creations we’ve worked on with growers, artists, and local dispensaries. Here’s a look at our vibe:</p>
+
+    <div class="products">
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Grow Room" />
+        <h3>Indoor Grow Lab</h3>
+        <p>Premium flower cultivated with love and LED tech.</p>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Packaging" />
+        <h3>Eco Packaging</h3>
+        <p>Minimal waste, max freshness. Custom jar and box designs.</p>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/200" alt="Brand Art" />
+        <h3>Stoner Art Collab</h3>
+        <p>Partnered with local artists to create limited edition merch.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Stoner's Haven. Stay lifted. 🌬️</p>
+  </footer>
+</body>
+</html>
