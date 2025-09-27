@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Our Services | Stoner's Haven</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body bgcolor="lightblue">
+  <nav>
+    <div class="logo">🌿 Stoner's Haven</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="section">
+    <h1>Our Services</h1>
+    <p>We offer a wide range of cannabis-focused services:</p>
+
+    <ul style="max-width: 600px; margin: 30px auto; text-align: left; list-style: square;">
+      <li><strong>Product Sourcing:</strong> We partner with top-tier growers for the freshest flower.</li>
+      <li><strong>Branding & Design:</strong> Need help launching your cannabis brand? We’ve got the aesthetic.</li>
+      <li><strong>Dispensary Consulting:</strong> Compliance, layout, and customer experience — we’ve done it all.</li>
+      <li><strong>Educational Workshops:</strong> Cannabis 101, cooking with weed, legal updates, and more.</li>
+      <li><strong>Custom Merch:</strong> Tees, grinders, rolling trays, and lifestyle gear for your brand.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Stoner's Haven. Stay lifted. 🌬️</p>
+  </footer>
+</body>
+</html>
