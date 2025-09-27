@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stoner's Haven cannabis </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body bgcolor="lightblue">
+  <header>
+    <nav>
+      <div class="logo">🌿 Stoner's Haven</div>
+      <ul>
+        <li><a href="about.html">Strains</a></li>
+        <li><a href="contact.html">Products</a></li>
+        <li><a href="services.html">Blog</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1 style="color: blue;">Welcome to Stoner's Haven</h1>
+      <p>Your chill zone for premium cannabis, gear, and vibes.</p>
+      <a href="#products" class="btn">Shop Now</a>
+    </div>
+  </header>
+  <background style="color: blueviolet;"
+
+  <section id="products" class="section">
+    <h2>🔥 Featured Products</h2>
+    <div class="products">
+      <div class="product-card">
+        <img src="https://cdn.pixabay.com/photo/2020/04/02/13/45/marijuana-4995228_1280.jpg" alt="Strain 1" />
+        <h3>OG Kush</h3>
+        <p>Relaxing, earthy, and a classic high.</p>
+        <button>Add to Cart</button>
+      </div>
+      <div class="product-card">
+        <img src="https://simg.nicepng.com/png/small/410-4103516_psd-detail-marijuana-bud-different-strains-of-weed.png" alt="Strain 2" />
+        <h3>Sour Diesel</h3>
+        <p>Energizing and pungent with citrus notes.</p>
+        <button>Add to Cart</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="blog" class="section">
+    <h2>📝 Latest Blog</h2>
+    <div class="blog-post">
+      <h3>Top 5 Munchies for Late Night Chills</h3>
+      <p>From cheesy chips to cosmic brownies, here's our stoner-approved snack list...</p>
+      <a href="#">Read More</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Stoner's Haven. Stay lifted. 🌬️</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
