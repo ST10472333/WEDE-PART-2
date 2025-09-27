@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About Us | Stoner's Haven</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body bgcolor="lightblue">
+  <nav>
+    <div class="logo">🌿 Stoner's Haven</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="section">
+    <h1>About Stoner's Haven</h1>
+    <p>Stoner’s Haven is more than a brand — it's a community. We’re dedicated to curating high-quality cannabis products, education, and good vibes. From medical users to recreational tokers, we welcome all who appreciate the plant.</p>
+    <br />
+    <p>Founded in 2020 by a group of cannabis lovers, our mission is to normalize and celebrate the cannabis lifestyle through trust, transparency, and top-tier products.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Stoner's Haven. Stay lifted. 🌬️</p>
+  </footer>
+</body>
+</html>
